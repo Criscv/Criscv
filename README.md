@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="150px"/>
+  <img src="./banner.gif" width="100%" alt="Banner Animado"/>
   
   <h1 align="center">Hi, I'm Cristian Chavez 👋</h1>
   
