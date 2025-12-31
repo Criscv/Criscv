@@ -60,7 +60,7 @@ I am passionate about understanding how things work under the hood. Currently, I
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Palmast2/AI_MIND.git">
-        <img src="./IA-MIND.jpg" alt="IA-MIND" width="300px/>
+        <img src="https://placehold.co/300x150/2E86C1/FFF?text=IA-MIND" alt="IA-MIND" />
       </a>
       <br />
       <strong>🧠 IA-MIND</strong>
@@ -91,7 +91,7 @@ I am passionate about understanding how things work under the hood. Currently, I
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Criscv/ByteRunner">
-        <img src="./ByteRunner.png" alt="ByteRunner" width="300px/>
+        <img src="https://placehold.co/300x150/4CAF50/FFF?text=ByteRunner" alt="ByteRunner" />
       </a>
       <br />
       <strong>🎮 ByteRunner</strong>
