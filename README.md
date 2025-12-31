@@ -19,9 +19,7 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" alt="Cristian Profile" width="250" src="./33732.webp" />
-
-Welcome to my profile! I'm a Computer Engineering student based in **Guadalajara, Mexico** 🇲🇽. 
+Welcome to my profile! I'm a Computer Engineering student based in **Guadalajara, Mexico**. 
 
 I am passionate about understanding how things work under the hood. Currently, I am focused on improving my skills in **Cybersecurity**, **Networking (CCNA)**, **Databases**, as well as **Web & Mobile Development**.
 
@@ -70,7 +68,7 @@ I am passionate about understanding how things work under the hood. Currently, I
       <br />
       Mental Health AI Assistant.<br />
       <strong>🏆 Honorable Mention at CUCEI</strong><br />
-      (Selected among 500+ projects).
+      (Selected among 500 projects).
       <br />
       <br />
       <code>Python</code> <code>AI</code> <code>Design</code>
@@ -128,7 +126,7 @@ I am passionate about understanding how things work under the hood. Currently, I
 
 * **🏆 IA-MIND (AI Project)**
   * Developed a mental health support application using Artificial Intelligence.
-  * **Achievement:** Received an Honorable Mention at CUCEI, standing out among 500+ academic projects.
+  * **Achievement:** Received an Honorable Mention at CUCEI, standing out among 500 academic projects.
   * Designed the visual identity and user interaction flow.
 
 * **💻 Variedades-MC (Web Development)**
@@ -140,10 +138,3 @@ I am passionate about understanding how things work under the hood. Currently, I
   * Successfully finished the development cycle, including UI/UX design and asset integration.
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Criscv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Criscv&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
