@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.gif" width="100%" alt="Banner Animado"/>
+  <img src="./Banner.gif" width="100%" alt="Banner Animado"/>
   
   <h1 align="center">Hi, I'm Cristian Chavez 👋</h1>
   
