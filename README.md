@@ -59,7 +59,7 @@ I am passionate about understanding how things work under the hood. Currently, I
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="#">
+      <a href="https://github.com/Palmast2/AI_MIND.git">
         <img src="https://placehold.co/300x150/2E86C1/FFF?text=IA-MIND" alt="IA-MIND" />
       </a>
       <br />
@@ -74,7 +74,7 @@ I am passionate about understanding how things work under the hood. Currently, I
       <code>Python</code> <code>AI</code> <code>Design</code>
     </td>
     <td align="center" width="50%">
-      <a href="#">
+      <a href="https://github.com/Criscv/Variedades-MC.git">
         <img src="https://placehold.co/300x150/000000/FFF?text=Variedades-MC" alt="Variedades-MC" />
       </a>
       <br />
